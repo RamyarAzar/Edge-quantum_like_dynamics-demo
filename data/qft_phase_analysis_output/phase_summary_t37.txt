@@ -1,0 +1,7 @@
+📘 Phase Structure Summary of w(x,t) at t = 37
+Mean |∂χ arg(w)| = 7.0533e-02 [rad/unit]
+
+📍 Probe Points Phase Values:
+  (χ,θ,φ)=(200,200,200): w = -2.1450e+07, arg(w) = 3.142 rad
+  (χ,θ,φ)=(100,100,100): w = 2.5063e+06, arg(w) = 0.000 rad
+  (χ,θ,φ)=(300,300,300): w = 4.6363e+10, arg(w) = 0.000 rad

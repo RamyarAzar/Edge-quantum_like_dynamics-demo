@@ -1,0 +1,5 @@
+📐 Quantum DMH Numerical Scaling to ℏ (Planck Constant)
+Average ℏ_eff(t) from model: 4.763287e+67 [dimensionless]
+Real ℏ value (SI): 1.054572e-34 J·s
+Derived scale factor α = ℏ_real / ⟨ℏ_eff⟩ = 2.213958e-102 J·s
+Realistic ℏ(t) series saved to: hbar_real_t.npy

@@ -1,0 +1,4 @@
+Time step: 38
+Threshold: 1.5389e+34
+Modon voxels: 13775
+Volume fraction: 0.000215
